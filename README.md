@@ -1,4 +1,4 @@
-#Titulo del Proyecto
+# Titulo del Proyecto
 
 
 **Texto en negritas**
@@ -10,7 +10,7 @@
 texto normal con **negritas**
 
 
-[//]:(ignora esto, es un comentario)
+[//]:# (ignora esto, es un comentario)
 
 
 ### Lista sin numerar
